@@ -5,6 +5,6 @@
 | [Exploratory Data Analytics](https://pages.github.com/)| Codes for all of the expoloratory data analytics projects |
 | [Machine Learning](https://pages.github.com/)| Codes for all machine learning projects  |
 
-Below Are Links To Datasets That I Have Used
+Link to Folder Where All Source URls Are Stored
 --------------------------------------------
-[Sources](https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa)
+[Dataset Sources](https://github.com/Tanner-Barbour/Data-Science-Projects/blob/main/Sources/)
